@@ -87,6 +87,38 @@ table{
     background-color: rgb(245, 69, 42);
 }
 
+td:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#equal:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#five:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#add:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#subtract:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#divide:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#multiply:hover{
+    background-color: rgb(239, 86, 239);
+}
+
+#percentile:hover{
+    background-color: rgb(239, 86, 239);
+}
+
 @media (max-width: 468px){
     h1{
         padding:8px 66px;
